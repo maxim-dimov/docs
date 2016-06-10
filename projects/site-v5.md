@@ -2,13 +2,6 @@ Our general website
 
 <hr>
 
-### Contents:
-- [Description](#description)
-- [Technical description](#technical-description)
-- [Structure](#structure)
-
-<hr>
-
 ## Description {#description}
 It's the 5th version of website. Site consists of common product pages.
 
