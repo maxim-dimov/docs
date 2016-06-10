@@ -1,19 +1,18 @@
-#Site V5
 Our general website
 
 <hr>
 
-###Contents: {.docs-contents-link}
-- [Description](#description) {.docs-contents-link}
-- [Technical description](#technical-description) {.docs-contents-link}
-- [Structure](#structure) {.docs-contents-link}
+### Contents:
+- [Description](#description)
+- [Technical description](#technical-description)
+- [Structure](#structure)
 
 <hr>
 
-##Description {#description}
+## Description {#description}
 It's the 5th version of website. Site consists of common product pages.
 
-##Technical description {#technical-description}
+## Technical description {#technical-description}
 - Statamic CMS
 - Mobile first adaptive design
 - Multilanguages supporting
