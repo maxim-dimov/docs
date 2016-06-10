@@ -2,10 +2,10 @@ Our general website
 
 <hr>
 
-## Description {#description}
+## Description
 It's the 5th version of website. Site consists of common product pages.
 
-## Technical description {#technical-description}
+## Technical description
 - Statamic CMS
 - Mobile first adaptive design
 - Multilanguages supporting
