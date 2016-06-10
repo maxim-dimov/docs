@@ -1,4 +1,4 @@
-# Index page
+## Index page
 <style>
 body {
   background: url(https://www.wrike.com/content/themes/wrike/resources/assets/img/vector/price/pattern-bg.svg);
